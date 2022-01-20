@@ -1,0 +1,21 @@
+{
+"users":
+[{
+    "name": "Veer",
+    "age": "23",
+    "dob": "22/03/1999",
+    "email": "vedairen@gmail.com"
+},
+{
+    "name": "Vedansh",
+    "age": "22",
+    "dob": "22/03/1999",
+    "email": "vairen@chenoainc.com"
+},
+{
+    "name": "Pratik",
+    "age": "27",
+    "dob": "27 Aug 1994",
+    "email": "pmuhre@chenoainc.com"
+}
+]}
